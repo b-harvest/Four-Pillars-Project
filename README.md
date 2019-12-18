@@ -6,11 +6,15 @@
 *Summary*
 
 - title : “Three Pillars Project” for better validator operation of Tendermint/Cosmos-SDK based blockchains 
+- grant proposer(validator operator) : B-Harvest(cosmosvaloper10e4vsut6suau8tk9m6dnrm0slgd6npe3jx5xpv)
+- grant proposer(keybase identity) : BFAAF68BD473D23958D452708957C5091FBF4192
+- contact : telegram @dlguddus, email contact@bharvest.io
 - proposed work : 3 projects(2 on Tendermint, 1 on Cosmos-SDK)
 - work status(2019-12-18) : 1 project PR finished, 2 projects under implementation
 - definition of work completion : Pull Request accepted by Tendermint team
 - expected period of work : 12 weeks(subjective to be shorter or longer, depend on review process with Tendermint team)
 - requested grant amount : 6,000 atoms in total
+- refund policy : if any project is not completed until 18 weeks after beginning date caused by due dilligence of B-Harvest, B-Harvest has responsibility to refund related grant back to community fund
 
 --------------------
 
@@ -23,16 +27,19 @@ B-Harvest is working on 3 consecutive projects to strengthen the validator opera
 - brief introduction : strengthening trusted, internal, persistent peers by introducing `unconditional_peer_ids` and `persistent_peers_max_dial_period`
 - status : spec PR accepted, implementation PR accepted
 - workloads : about 4 weeks
+- grant : 1,200 atoms
 
 2) Cosmos-SDK ADR 16 : [Validator Consensus Key Rotation](https://github.com/b-harvest/cosmos-sdk/blob/master/docs/architecture/adr-016-validator-consensus-key-rotation.md)
 - brief introduction : allow validators to replace their consensus key
 - status : spec PR in discussion, implementation on the way
 - workloads : about 8 weeks
+- grant : 2,400 atoms
 
 3) Tendermint ADR 51 : [Double Signing Protection with Tendermint Mode](https://github.com/b-harvest/tendermint/blob/master/docs/architecture/adr-051-double-signing-protection-with-tendermint-mode.md)
 - brief introduction : prevent double signing of validators by checking recent block data to check the existence of the validator's consensus key, and introducing "Tendermint Mode"
 - status : spec on the way, implementation on the way
 - workloads : about 8 weeks
+- grant : 2,400 atoms
 
 
 --------------------

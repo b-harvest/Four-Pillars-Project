@@ -7,6 +7,7 @@
 
 - title : “Three Pillars Project” for better validator operation of Tendermint/Cosmos-SDK based blockchains 
 - grant proposer(validator operator) : B-Harvest(cosmosvaloper10e4vsut6suau8tk9m6dnrm0slgd6npe3jx5xpv)
+- grant recipient address : cosmos10e4vsut6suau8tk9m6dnrm0slgd6npe3hjqndl
 - grant proposer(keybase identity) : BFAAF68BD473D23958D452708957C5091FBF4192
 - contact : telegram @dlguddus, email contact@bharvest.io
 - proposed work : 3 projects(2 on Tendermint, 1 on Cosmos-SDK)

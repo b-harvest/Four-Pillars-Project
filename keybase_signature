@@ -10,6 +10,7 @@ Hash: SHA512
 
 - - title : “Three Pillars Project” for better validator operation of Tendermint/Cosmos-SDK based blockchains 
 - - grant proposer(validator operator) : B-Harvest(cosmosvaloper10e4vsut6suau8tk9m6dnrm0slgd6npe3jx5xpv)
+- - grant recipient address : cosmos10e4vsut6suau8tk9m6dnrm0slgd6npe3hjqndl
 - - grant proposer(keybase identity) : BFAAF68BD473D23958D452708957C5091FBF4192
 - - contact : telegram @dlguddus, email contact@bharvest.io
 - - proposed work : 3 projects(2 on Tendermint, 1 on Cosmos-SDK)
@@ -78,17 +79,17 @@ Our projects are usually devoted by 2 people, each of person devoting about 30%~
 Version: Keybase OpenPGP v2.1.3
 Comment: https://keybase.io/crypto
 
-wsFcBAABCgAGBQJd+cE9AAoJEIlXxQkfv0GS134P/36czveBtE31jLiNK58WkDUL
-FBomTeb4ChZAEjOMFFUxfZjuoRJkpkH8Y2rgPD+tuHBsV3AlnT+fiQn0t5hSv8+4
-yJX0dfuryCwltbRP+fDTsYdWMoMcQrA9OtEYXQhiu98sxv2P8glm+62fYCDGaN/1
-/gwCfgfvlCKlSFfv6KW9v8JOohrdsAmyI+tJ1hcxaUmpbTkV/0ldB3V7+BSopTox
-4rTgrDgzn+VTo/N/TDXyBIf5avxoJNDkGMNwxttM37EGnkbU2PqENXfwXrexjr+n
-lpoNidEfZyXHlBcY7bXtRXWLkwJXQwljglm4msHLxljaSjdExFeVZwnvMitjWWap
-N8ulnXsf3CF8vx3tdyAB7aRG1hzv1uOzva0/q9rFQx0mwB6zOi3DFmd25DzBFnTd
-b768jVqS2qROSuMmoyAp52/hvx3gHqF8YjgVHOuH4/VBDQGJUTB8ZhesTY7rr8nf
-NOI49H25F8wRRe6PoWmRlZHuIeTg9ZY1nIIBKoQxFocFfZWmj5wICDJkoV92GkvN
-O+XIpaMZQylRo2pe7TIjIw2AAqjoSzMHIin6JjLCcegnkYhlkHxVak4KPIm4kr+9
-JKOfHNj4OCpZZCENPW3K55er/NxBdoKmuzbf0g/cqBgdBSOR/gv5yof8ORgVLd21
-W+Pn3Y75EjpmUmZNADq2
-=L9jw
+wsFcBAABCgAGBQJd+cL1AAoJEIlXxQkfv0GSDyQQAINTWx2/BgYeCy9X4D0fWUAl
+UIaMs1p92+H3k/mE1+MI9A5kGPrTRSK8S/5CzYBGQ2x1MKep84o5jjeNnlTlfKa8
+JyFYi2u3/CGf+6lBJ3E8ixSDY58sCOmH85hfmfv7E56MgYhnONPKNMGlwq5Rbf/z
+M7/ICqRJwyWk00UKSvOKLeZ42N79V9UOPBN2FhzlMMPXoGaIB4tKGyEF/VZ/VD4D
+4GAuD/C3RXkURI7UX/S3zJLoUGsWd7MoQJjLJk15q3Pz+dtvaI2brbb8RkpUah/g
+3mChyUZmWlYG7+LR2rSd1sD00aHKT9lmqZpQYqUTxvhqpxkNQqzMGcd/dcAfvNJF
+u12/816d6SwkiLoOKIkRvbhWk3khpIeT7wyFOA/TE8kUEJL97lUn45KTQE84tpwg
+rETWr9EwNZYJ8Cm0VgJd5KEWGBimChZiknxjk1EzYVBO8WxeR3KVCRIw+i8WeOnu
+WWP8X2/CtRb2migvH75/UGP+uuk6auGiYzlQwQV0bYhsigg8p1TKNFiPuVjueWo8
+UjqdCEcGc3R2pAOPHkv/gWFMMvxCfms720NCp42JtAk/seE3ChML6kOqoQybXqRo
+hjtVKlPJIxT8XGRTV+dflL9U0yhQi2H3QQlrknJTCMBEyy6hKXgFEMDXXUDG2i8D
+SH+hsOW1zBuDzKUVatuW
+=Fx1l
 -----END PGP SIGNATURE-----

@@ -30,7 +30,7 @@ B-Harvest is working on 3 consecutive projects to strengthen the validator opera
 - workloads : about 4 weeks
 - grant : 1,200 atoms
 
-2) Cosmos-SDK ADR 16 : [Validator Consensus Key Rotation](https://github.com/b-harvest/cosmos-sdk/blob/master/docs/architecture/adr-016-validator-consensus-key-rotation.md)
+2) Cosmos-SDK ADR 16 : [Validator Consensus Key Rotation](https://github.com/cosmos/cosmos-sdk/pull/5233)
 - brief introduction : allow validators to replace their consensus key
 - status : spec PR in discussion, implementation on the way
 - workloads : about 8 weeks
@@ -70,5 +70,5 @@ Our projects are usually devoted by 2 people, each of person devoting about 30%~
 - forum post : https://forum.cosmos.network/t/three-pillars-project-for-better-validator-operation-of-tendermint-cosmos-sdk-based-blockchains/3066
 - projects documentation :
   - [Improved Trusted Peering](https://github.com/tendermint/tendermint/blob/master/docs/architecture/adr-050-improved-trusted-peering.md)
-  - [Validator Consensus Key Rotation](https://github.com/b-harvest/cosmos-sdk/blob/master/docs/architecture/adr-016-validator-consensus-key-rotation.md)
+  - [Validator Consensus Key Rotation](https://github.com/cosmos/cosmos-sdk/pull/5233)
   - [Double Signing Protection with Tendermint Mode](https://github.com/b-harvest/tendermint/blob/master/docs/architecture/adr-051-double-signing-protection-with-tendermint-mode.md)

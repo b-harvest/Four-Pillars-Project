@@ -33,7 +33,7 @@ B-Harvest is working on 3 consecutive projects to strengthen the validator opera
 - - workloads : about 4 weeks
 - - grant : 1,200 atoms
 
-2) Cosmos-SDK ADR 16 : [Validator Consensus Key Rotation](https://github.com/b-harvest/cosmos-sdk/blob/master/docs/architecture/adr-016-validator-consensus-key-rotation.md)
+2) Cosmos-SDK ADR 16 : [Validator Consensus Key Rotation](https://github.com/cosmos/cosmos-sdk/pull/5233)
 - - brief introduction : allow validators to replace their consensus key
 - - status : spec PR in discussion, implementation on the way
 - - workloads : about 8 weeks
@@ -73,23 +73,23 @@ Our projects are usually devoted by 2 people, each of person devoting about 30%~
 - - forum post : https://forum.cosmos.network/t/three-pillars-project-for-better-validator-operation-of-tendermint-cosmos-sdk-based-blockchains/3066
 - - projects documentation :
   - [Improved Trusted Peering](https://github.com/tendermint/tendermint/blob/master/docs/architecture/adr-050-improved-trusted-peering.md)
-  - [Validator Consensus Key Rotation](https://github.com/b-harvest/cosmos-sdk/blob/master/docs/architecture/adr-016-validator-consensus-key-rotation.md)
+  - [Validator Consensus Key Rotation](https://github.com/cosmos/cosmos-sdk/pull/5233)
   - [Double Signing Protection with Tendermint Mode](https://github.com/b-harvest/tendermint/blob/master/docs/architecture/adr-051-double-signing-protection-with-tendermint-mode.md)
 -----BEGIN PGP SIGNATURE-----
 Version: Keybase OpenPGP v2.1.3
 Comment: https://keybase.io/crypto
 
-wsFcBAABCgAGBQJd+cL1AAoJEIlXxQkfv0GSDyQQAINTWx2/BgYeCy9X4D0fWUAl
-UIaMs1p92+H3k/mE1+MI9A5kGPrTRSK8S/5CzYBGQ2x1MKep84o5jjeNnlTlfKa8
-JyFYi2u3/CGf+6lBJ3E8ixSDY58sCOmH85hfmfv7E56MgYhnONPKNMGlwq5Rbf/z
-M7/ICqRJwyWk00UKSvOKLeZ42N79V9UOPBN2FhzlMMPXoGaIB4tKGyEF/VZ/VD4D
-4GAuD/C3RXkURI7UX/S3zJLoUGsWd7MoQJjLJk15q3Pz+dtvaI2brbb8RkpUah/g
-3mChyUZmWlYG7+LR2rSd1sD00aHKT9lmqZpQYqUTxvhqpxkNQqzMGcd/dcAfvNJF
-u12/816d6SwkiLoOKIkRvbhWk3khpIeT7wyFOA/TE8kUEJL97lUn45KTQE84tpwg
-rETWr9EwNZYJ8Cm0VgJd5KEWGBimChZiknxjk1EzYVBO8WxeR3KVCRIw+i8WeOnu
-WWP8X2/CtRb2migvH75/UGP+uuk6auGiYzlQwQV0bYhsigg8p1TKNFiPuVjueWo8
-UjqdCEcGc3R2pAOPHkv/gWFMMvxCfms720NCp42JtAk/seE3ChML6kOqoQybXqRo
-hjtVKlPJIxT8XGRTV+dflL9U0yhQi2H3QQlrknJTCMBEyy6hKXgFEMDXXUDG2i8D
-SH+hsOW1zBuDzKUVatuW
-=Fx1l
+wsFcBAABCgAGBQJd+cpFAAoJEIlXxQkfv0GSQVIQALMV5MQGjinZQJG1+eGGf5hb
+bLcUFFPB0MOmIpXLQihcP3As80KzCEN4Yysj/dUPWw1UOttXcExPFeqB0ftH5iqx
+U2G+B7qOCRhBuNDvB82ETFRncC0LOtzvtbuBNtySBDHTagk4PI8+XioVQer4nUh4
+gZDmXV7mwX1IQqIaZfVycyJlpnDDLwu64f9Mu5Jk8LcKj9RqjzJ16vbhlnfAkDL7
+JeX1He6udei9aSLkqDYpsjMkI7TEtuM3CrjvoxSmHY8EEklYn/yEdKTlyEeTX5+t
+7Q00MtHf6Tf4RCZnW31+893mIWIUR2qJZRNj31ykoK/GmutzPTpX8TCxy+Oatie9
+F1TwnOPncf3tvytO75sa5yaXbTAriF8YIhFXTpy1n79kRVzmfGl932KJaKhEDL2c
+IgWWYxcVgM5aoLc1KYBBSCJIoOID4Jnl8ypqshydifMU3v86PMuCbKi/Bz679Hnn
+Ze+Iers3+zgO03ppgIuEdM2mK/3ZPEEXjCggXft+r0xdwUCTdKgXNwblwX8LfcXA
+xiOoBuknLgT8tw+13RA0OaPU7UAH8kRy6Hekf/mU0YBCLkLBRmTt6GmSA6VDapOI
+MfRdaGdBJm2Vt+pDwe6jsDair2Q9ilrkhpXvOPIFD3VdMHFvFcZtZ7cCr0XN8Vmy
+HGL0FKLEmEVqfaj6Lhu7
+=PAm/
 -----END PGP SIGNATURE-----

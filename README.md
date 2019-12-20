@@ -3,6 +3,13 @@
 
 --------------------
 
+*Status*
+
+This grant proposal is halted because B-Harvest decided to apply for ICF grant instead next year.
+But the implementation will be continued despite non grant confirmation yet.
+
+--------------------
+
 *Summary*
 
 - title : “Three Pillars Project” for better validator operation of Tendermint/Cosmos-SDK based blockchains 

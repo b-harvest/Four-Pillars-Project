@@ -1,13 +1,9 @@
 # Three-Pillars-Project
 “Three Pillars Project” for better validator operation of Tendermint/Cosmos-SDK based blockchains
 
---------------------
-
 *Status*
 
 This grant proposal is to request a grant from ICF to design and implement below 3 ADRs on Tendermint and Cosmos-SDK
-
---------------------
 
 *Summary*
 
@@ -22,8 +18,6 @@ This grant proposal is to request a grant from ICF to design and implement below
 - expected period of work : 12 weeks from now(subjective to be shorter or longer, depend on review process with Tendermint team)
 - requested grant amount : 50,000 USD in total
 - refund policy : if any project is not completed until 18 weeks after beginning date caused by due dilligence of B-Harvest, B-Harvest has responsibility to refund related grant back to ICF
-
---------------------
 
 *Projects detail*
 

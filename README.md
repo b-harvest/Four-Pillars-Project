@@ -1,9 +1,9 @@
-# Three-Pillars-Project
-“Three Pillars Project” for better validator operation of Tendermint/Cosmos-SDK based blockchains
+# Four-Pillars-Project
+“Four Pillars Project” for better validator operation of Tendermint/Cosmos-SDK based blockchains
 
 *Status*
 
-This grant proposal is to request a grant from ICF to design and implement below 3 ADRs on Tendermint and Cosmos-SDK
+This grant proposal is to request a grant from ICF to design and implement below 4 ADRs on Tendermint and Cosmos-SDK
 
 *Summary*
 
@@ -12,8 +12,8 @@ This grant proposal is to request a grant from ICF to design and implement below
 - grant recipient address : cosmos10e4vsut6suau8tk9m6dnrm0slgd6npe3hjqndl
 - grant proposer(keybase identity) : BFAAF68BD473D23958D452708957C5091FBF4192
 - contact : telegram @dlguddus, email contact@bharvest.io
-- proposed work : 3 projects(2 on Tendermint, 1 on Cosmos-SDK)
-- work status(2019-12-18) : 1 project PR finished, 2 projects under implementation
+- proposed work : 4 projects(3 on Tendermint, 1 on Cosmos-SDK)
+- work status(2019-12-18) : 1 project PR finished, 3 projects under implementation
 - definition of work completion : Pull Request accepted by Tendermint team
 - expected period of work : 12 weeks from now(subjective to be shorter or longer, depend on review process with Tendermint team)
 - requested grant amount : 50,000 USD in total
@@ -36,13 +36,17 @@ B-Harvest is working on 3 consecutive projects to strengthen the validator opera
 - workloads : about 8 weeks
 - grant : $20,000
 
-3) Tendermint ADR 51 : [Double Signing Protection with Tendermint Mode](https://github.com/tendermint/tendermint/pull/4262)
-- brief introduction : prevent double signing of validators by checking recent block data to check the existence of the validator's consensus key, and introducing "Tendermint Mode"
+3) Tendermint ADR 51 : [Double Signing Protection](https://github.com/tendermint/tendermint/pull/4262)
+- brief introduction : prevent double signing of validators by checking recent block data to check the existence of the validator's consensus key
 - status : spec on the way, implementation on the way
-- workloads : about 8 weeks
-- grant : $20,000
+- workloads : about 4 weeks
+- grant : $10,000
 
-
+4) Tendermint ADR 52 : [Tendermint Mode](https://github.com/tendermint/tendermint/pull/4302)
+- brief introduction : introducing "Tendermint Mode" which allows operator to select mode(fullnode/validator/seednode) for each specific functionality to efficiently use resource and prevent mistakes from operators
+- status : spec on the way, implementation on the way
+- workloads : about 4 weeks
+- grant : $10,000
 --------------------
 
 *For the price calculation of our grant proposal*
@@ -53,4 +57,5 @@ Our projects are usually devoted by 2 people, each of person devoting about 50% 
 - projects documentation :
   - [Improved Trusted Peering](https://github.com/tendermint/tendermint/blob/master/docs/architecture/adr-050-improved-trusted-peering.md)
   - [Validator Consensus Key Rotation](https://github.com/cosmos/cosmos-sdk/pull/5233)
-  - [Double Signing Protection with Tendermint Mode](https://github.com/tendermint/tendermint/pull/4262)
+  - [Double Signing Protection](https://github.com/tendermint/tendermint/pull/4262)
+  - [Tendermint Mode](https://github.com/tendermint/tendermint/pull/4302)

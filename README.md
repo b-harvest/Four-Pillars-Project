@@ -7,13 +7,13 @@ This grant proposal is to request a grant from ICF to design and implement below
 
 *Summary*
 
-- title : “Three Pillars Project” for better validator operation of Tendermint/Cosmos-SDK based blockchains 
+- title : “Four Pillars Project” for better validator operation of Tendermint/Cosmos-SDK based blockchains 
 - grant proposer(validator operator) : B-Harvest(cosmosvaloper10e4vsut6suau8tk9m6dnrm0slgd6npe3jx5xpv)
 - grant recipient address : cosmos10e4vsut6suau8tk9m6dnrm0slgd6npe3hjqndl
 - grant proposer(keybase identity) : BFAAF68BD473D23958D452708957C5091FBF4192
 - contact : telegram @dlguddus, email contact@bharvest.io
 - proposed work : 4 projects(3 on Tendermint, 1 on Cosmos-SDK)
-- work status(2019-12-18) : 1 project PR finished, 3 projects under implementation
+- work status(2019-01-16) : 1 project PR finished, 3 projects under implementation
 - definition of work completion : Pull Request accepted by Tendermint team
 - expected period of work : 12 weeks from now(subjective to be shorter or longer, depend on review process with Tendermint team)
 - requested grant amount : 50,000 USD in total

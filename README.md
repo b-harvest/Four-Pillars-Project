@@ -21,7 +21,7 @@ This grant proposal is to request a grant from ICF to design and implement below
 
 *Projects detail*
 
-B-Harvest is working on 3 consecutive projects to strengthen the validator operation of Tendermint/Cosmos-SDK based blockchains. We want to share some progress on those projects.
+B-Harvest is working on 4 consecutive projects to strengthen the validator operation of Tendermint/Cosmos-SDK based blockchains. We want to share some progress on those projects.
 
 1) Tendermint ADR 50 : [Improved Trusted Peering](https://github.com/tendermint/tendermint/blob/master/docs/architecture/adr-050-improved-trusted-peering.md)
 

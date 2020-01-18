@@ -51,7 +51,7 @@ B-Harvest is working on 3 consecutive projects to strengthen the validator opera
 
 *For the price calculation of our grant proposal*
 
-Our projects are usually devoted by 2 people, each of person devoting about 50% of full time. As a team, we estimate 4 week contribution as $10,000. Total proposed grant is $50,000 for entire three projects with total 20 weeks contribution.
+Our projects are usually devoted by 2 people, each of person devoting about 50% of full time. As a team, we estimate 4 week contribution as $10,000. Total proposed grant is $50,000 for entire four projects with total 20 weeks contribution.
 
 *Reference*
 - projects documentation :

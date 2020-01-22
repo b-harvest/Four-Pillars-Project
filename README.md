@@ -42,9 +42,9 @@ B-Harvest is working on 4 consecutive projects to strengthen the validator opera
 - workloads : about 4 weeks
 - grant : $10,000
 
-4) Tendermint ADR 52 : [Tendermint Mode](https://github.com/tendermint/tendermint/pull/4302)
+4) Tendermint ADR 52 : [Tendermint Mode](https://github.com/tendermint/tendermint/blob/master/docs/architecture/adr-052-tendermint-mode.md)
 - brief introduction : introducing "Tendermint Mode" which allows operator to select mode(fullnode/validator/seednode) for each specific functionality to efficiently use resource and prevent mistakes from operators
-- status : spec on the way, implementation on the way
+- status : spec PR accepted, implementation on the way
 - workloads : about 4 weeks
 - grant : $10,000
 --------------------
@@ -58,4 +58,4 @@ Our projects are usually devoted by 2 people, each of person devoting about 50% 
   - [Improved Trusted Peering](https://github.com/tendermint/tendermint/blob/master/docs/architecture/adr-050-improved-trusted-peering.md)
   - [Validator Consensus Key Rotation](https://github.com/cosmos/cosmos-sdk/blob/master/docs/architecture/adr-016-validator-consensus-key-rotation.md)
   - [Double Signing Risk Reduction](https://github.com/tendermint/tendermint/pull/4262)
-  - [Tendermint Mode](https://github.com/tendermint/tendermint/pull/4302)
+  - [Tendermint Mode](https://github.com/tendermint/tendermint/blob/master/docs/architecture/adr-052-tendermint-mode.md)

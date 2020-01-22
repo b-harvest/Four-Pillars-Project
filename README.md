@@ -36,8 +36,8 @@ B-Harvest is working on 4 consecutive projects to strengthen the validator opera
 - workloads : about 8 weeks
 - grant : $20,000
 
-3) Tendermint ADR 51 : [Double Signing Protection](https://github.com/tendermint/tendermint/pull/4262)
-- brief introduction : prevent double signing of validators by checking recent block data to check the existence of the validator's consensus key
+3) Tendermint ADR 51 : [Double Signing Risk Reduction](https://github.com/tendermint/tendermint/pull/4262)
+- brief introduction : reduce double signing risk of validators by checking recent block data to check the existence of the validator's consensus key
 - status : spec on the way, implementation on the way
 - workloads : about 4 weeks
 - grant : $10,000
@@ -57,5 +57,5 @@ Our projects are usually devoted by 2 people, each of person devoting about 50% 
 - projects documentation :
   - [Improved Trusted Peering](https://github.com/tendermint/tendermint/blob/master/docs/architecture/adr-050-improved-trusted-peering.md)
   - [Validator Consensus Key Rotation](https://github.com/cosmos/cosmos-sdk/pull/5233)
-  - [Double Signing Protection](https://github.com/tendermint/tendermint/pull/4262)
+  - [Double Signing Risk Reduction](https://github.com/tendermint/tendermint/pull/4262)
   - [Tendermint Mode](https://github.com/tendermint/tendermint/pull/4302)

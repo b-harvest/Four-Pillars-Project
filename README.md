@@ -38,7 +38,7 @@ B-Harvest is working on 4 consecutive projects to strengthen the validator opera
 
 3) Tendermint ADR 51 : [Double Signing Risk Reduction](https://github.com/tendermint/tendermint/pull/4262)
 - brief introduction : reduce double signing risk of validators by checking recent block data to check the existence of the validator's consensus key
-- status : spec on the way, implementation on the way
+- status : spec PR accepted, implementation on the way
 - workloads : about 4 weeks
 - grant : $10,000
 
